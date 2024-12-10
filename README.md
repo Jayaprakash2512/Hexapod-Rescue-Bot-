@@ -1,1 +1,1 @@
-# Hexapod-Rescue-Bot-
+The **Hexapod Rescue Bot** is an innovative autonomous robot designed for search and rescue operations in disaster and landslide-prone areas. It features a robust mechanical structure, AI-powered navigation, and advanced sensors like LiDAR and thermal cameras for victim detection and obstacle avoidance. The bot ensures efficient operation with energy-optimized systems and real-time communication capabilities, making it a reliable solution for challenging rescue missions.
